@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>抽屉效果 WatchKit 1 App (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>抽屉效果 WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>抽屉效果.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F22B2CE21DB70C2800E12F38</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F27190061DB46ADD009C8DEE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F271901F1DB46ADD009C8DEE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F271902A1DB46ADD009C8DEE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
